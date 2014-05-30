@@ -33,7 +33,7 @@ int main()
 			break;
 
           default:
-			printf("•\Ž¦‚µ‚È‚¢");
+			printf("nothing");
 		}
 		return 0;
 	}
